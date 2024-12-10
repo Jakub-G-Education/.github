@@ -19,9 +19,9 @@ This is my github organization for education related projects.
 
 <hr>
 
-##Kristiania University College - Frontend and Mobile Development
+## Kristiania University College - Frontend and Mobile Development
 
-###Fifth Semester
+### Fifth Semester
   - <a>PG5602 iOS programmering</a>
 
 
