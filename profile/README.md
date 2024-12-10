@@ -22,7 +22,7 @@ This is my github organization for education related projects.
 ## Kristiania University College - Frontend and Mobile Development
 
 ### Fifth Semester
-  * <a src="https://github.com/Jakub-G-Education/PG5602-iOS-Development-Exam">PG5602, iOS Development - Exam</a>
+  * <p><a src="https://github.com/Jakub-G-Education/PG5602-iOS-Development-Exam">PG5602, iOS Development - Exam</a></p>
   * <a src="">TDS200, Cross-Platform - Exam</a>
 
 
