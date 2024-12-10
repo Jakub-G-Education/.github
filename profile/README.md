@@ -8,7 +8,17 @@
    <b>
    Contact me at <a href="https://www.linkedin.com/in/jakub-gabor/"> <img height="16" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" /> </a>
  </b>
+   <b>
+   or check-out my main profile <a href="https://github.com/JakubGabor"> <img height="16" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" /> </a>
+ </b>
 </div>
+
+<hr>
+
+This is my github organization for education related projects.
+
+<hr>
+
 
 
 
