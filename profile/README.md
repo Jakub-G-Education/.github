@@ -9,7 +9,7 @@
    Contact me at &nbsp; <a href="https://www.linkedin.com/in/jakub-gabor/"> <img height="16" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" /> </a>
  </b>
    <b>
-  &nbsp; or check-out my main profile &nbsp; <a href="https://github.com/JakubGabor"> <img height="25" align="center" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" /> </a>
+  &nbsp; or check-out my main profile &nbsp; <a href="https://github.com/JakubGabor"> <img height="25" align="center" src="https://raw.githubusercontent.com/Jakub-G-Education/.github/c7199add441871d6e30145d5cf4d4b85ac7b191a/profile/github-mark-white.svg" /> </a>
  </b>
 </div>
 
