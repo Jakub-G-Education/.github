@@ -28,7 +28,7 @@ This is my github organization for education related projects.
 ### Fourth Semester
   * [PGR107, Python](https://github.com/Jakub-G-Education/PGR107-Python)
   * [PRO202, Agile-Project](https://github.com/Jakub-G-Education/PRO202-Agile-Project)
-      *[PRO202, Agile-Project-API](https://github.com/Jakub-G-Education/PRO202-Agile-Project-API)
+    * [PRO202, Agile-Project-API](https://github.com/Jakub-G-Education/PRO202-Agile-Project-API)
 
 ### Fifth Semester
   * [PG5602, iOS Development - Exam](https://github.com/Jakub-G-Education/PG5602-iOS-Development-Exam)
