@@ -21,6 +21,10 @@ This is my github organization for education related projects.
 
 ## Kristiania University College - Frontend and Mobile Development
 
+### Third Semester
+  * [DS3103, Web-Development](https://github.com/Jakub-G-Education/DS3103-Web-Development)
+  * [DS3103, Web-Development API](https://github.com/Jakub-G-Education/DS3103-Web-Development-API)
+
 ### Fifth Semester
   * [PG5602, iOS Development - Exam](https://github.com/Jakub-G-Education/PG5602-iOS-Development-Exam)
   * [TDS200, Cross-Platform - Exam](https://github.com/Jakub-G-Education/TDS200-Cross-Platform-Exam)
